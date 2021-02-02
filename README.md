@@ -160,3 +160,5 @@ The proof of cluster deletion is denoted on the output of the last cell on this 
 - [ModuleNotFoundError: No module named 'sklearn'](https://knowledge.udacity.com/questions/423888)
 - [I get error while saving AutoML model](https://knowledge.udacity.com/questions/384083)
 - [AutoML submit getting IncompatibleOrMissingDependency exception](https://knowledge.udacity.com/questions/374305)
+- [Hyperdrive tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters)
+- [Understanding automated ML](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml)
