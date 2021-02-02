@@ -157,6 +157,6 @@ The proof of cluster deletion is denoted on the output of the last cell on this 
 ## References
 <br>
 
-[ModuleNotFoundError: No module named 'sklearn'](https://knowledge.udacity.com/questions/423888)
-[I get error while saving AutoML model](https://knowledge.udacity.com/questions/384083)
-[AutoML submit getting IncompatibleOrMissingDependency exception](https://knowledge.udacity.com/questions/374305)
+- [ModuleNotFoundError: No module named 'sklearn'](https://knowledge.udacity.com/questions/423888)
+- [I get error while saving AutoML model](https://knowledge.udacity.com/questions/384083)
+- [AutoML submit getting IncompatibleOrMissingDependency exception](https://knowledge.udacity.com/questions/374305)
